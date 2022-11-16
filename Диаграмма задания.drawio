@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T10:44:42.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="24hzHvsCWOOPCkCzBxHP" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-16T10:45:43.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6WGgi9nE0ZlcEcETQpVR" version="20.5.3" type="github" pages="2">
   <diagram id="7N2PUeJ87voyK_xcQXhT" name="Подготовка к экзамену">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="37iBj5kOMY-0HO2CEy-Y" name="Получение водительских прав">
-    <mxGraphModel dx="1467" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A_MHJjNXbYcxaQ65ufQ7-3" value="Выполнение &lt;br style=&quot;font-size: 13px;&quot;&gt;требований&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="168" y="240" width="90" height="40" as="geometry" />
+          <mxGeometry x="174" y="245" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A_MHJjNXbYcxaQ65ufQ7-4" value="A1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="420" y="300" width="20" height="20" as="geometry" />
@@ -189,7 +189,7 @@
         <mxCell id="pW6tHaXm_zRUD6haNZeo-11" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lD2_cZABrEj2HFae_bbN-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="300" as="sourcePoint" />
-            <mxPoint x="1250" y="440" as="targetPoint" />
+            <mxPoint x="1200" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pW6tHaXm_zRUD6haNZeo-12" value="Водительские&lt;br&gt;&amp;nbsp;права" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" connectable="0" parent="pW6tHaXm_zRUD6haNZeo-11">
@@ -199,19 +199,21 @@
         </mxCell>
         <mxCell id="pW6tHaXm_zRUD6haNZeo-14" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=Times New Roman;fontSize=14;entryX=0;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;" edge="1" parent="1" target="lD2_cZABrEj2HFae_bbN-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="280" as="sourcePoint" />
+            <mxPoint x="220" y="280" as="sourcePoint" />
             <mxPoint x="740" y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="380" />
+              <mxPoint x="220" y="280" />
+              <mxPoint x="220" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pW6tHaXm_zRUD6haNZeo-15" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=Times New Roman;fontSize=14;entryX=0;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;" edge="1" parent="1" target="lD2_cZABrEj2HFae_bbN-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="280" as="sourcePoint" />
+            <mxPoint x="220" y="280" as="sourcePoint" />
             <mxPoint x="600" y="479.94" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="460" />
+              <mxPoint x="220" y="280" />
+              <mxPoint x="220" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
