@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T09:06:39.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.0.2424 Yowser/2.5 Safari/537.36" etag="OT46xvzDrh4Z9DKz9kP5" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-28T09:09:19.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.0.2424 Yowser/2.5 Safari/537.36" etag="U7SdutsD2R6K8HMQSaEr" version="20.6.0" type="github" pages="2">
   <diagram id="7N2PUeJ87voyK_xcQXhT" name="Подготовка к экзамену">
     <mxGraphModel dx="1374" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pW6tHaXm_zRUD6haNZeo-8" value="Педагоги, имеющие &lt;br style=&quot;font-size: 14px;&quot;&gt;опыт вождения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;" parent="pW6tHaXm_zRUD6haNZeo-7" vertex="1" connectable="0">
+        <mxCell id="pW6tHaXm_zRUD6haNZeo-8" value="Педагоги" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=14;" parent="pW6tHaXm_zRUD6haNZeo-7" vertex="1" connectable="0">
           <mxGeometry x="-0.1446" y="2" relative="1" as="geometry">
             <mxPoint x="-89" y="-42" as="offset" />
           </mxGeometry>
